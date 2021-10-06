@@ -4,7 +4,7 @@ This is a program to analyze certain key terms and use it to determine the senti
 ## Table of Contents
 <!--ts-->
 * [Features](https://github.com/byu5/SocialListeningProject/blob/main/README.md#features)
-* [Get Started](https://github.com/byu5/SocialListeningProject/blob/main/README.md##get-started)
+* [Get Started](https://github.com/byu5/SocialListeningProject/blob/main/README.md#get-started)
 * [Contributors](https://github.com/byu5/SocialListeningProject/blob/main/README.md#contributors)
 <!--te-->
 
