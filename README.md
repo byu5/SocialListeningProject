@@ -14,7 +14,8 @@ The data analyses will provide different kinds of data visualizations include:
 - Top 10 most tweets within the United States
 - Frequency of tweets from the past 9 days
 - Word cloud
-- Total sentiment based on scores. 
+- Total sentiment based on scores
+- Exploratory graph analysis
 
 ## Get Started 
 + You will need to provide your own tokens from a [Twitter Developer Account](https://developer.twitter.com/en/apply-for-access). Here is a [guide on how to apply for a Twitter Developer Account](https://cran.r-project.org/web/packages/rtweet/vignettes/auth.html). 
