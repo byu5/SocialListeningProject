@@ -27,3 +27,6 @@ The data analyses will provide different kinds of data visualizations include:
 - Weijia Wang
 - Barry Yu
 - Giani Kurniawan
+
+## Credits
+[Social listening via Twitter feed analysis](https://towardsdatascience.com/social-listening-via-twitter-feed-analysis-23fb4fbe7531) by Sheenal Srivastava 
