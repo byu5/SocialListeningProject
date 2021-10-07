@@ -16,11 +16,14 @@ The data analyses will provide different kinds of data visualizations include:
 - Word cloud
 - Total sentiment based on scores
 - Exploratory graph analysis
+- Number of users showing in US map
 
 ## Get Started 
 + You will need to provide your own tokens from a [Twitter Developer Account](https://developer.twitter.com/en/apply-for-access). Here is a [guide on how to apply for a Twitter Developer Account](https://cran.r-project.org/web/packages/rtweet/vignettes/auth.html). 
 
 + You would also need a R IDE to run the program. [Rstudio](https://www.rstudio.com/products/rstudio/download/) is recommended as it will conveniently shows the visualizations along with the program.
+
++ This code might take three to five minutes to run.
 
 
 ## Contributors
