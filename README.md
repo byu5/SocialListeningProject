@@ -18,6 +18,15 @@ The data analyses will provide different kinds of data visualizations include:
 - Exploratory graph analysis
 - Number of users showing in US map
 
+## Data Visualization 
+![image](https://user-images.githubusercontent.com/82694734/136900674-5f1072e3-e63d-482b-ac9f-89b26fa40642.png)
+![image](https://user-images.githubusercontent.com/82694734/136900619-f8153908-7801-4ed0-b89b-288123452fe9.png)
+![image](https://user-images.githubusercontent.com/82694734/136900711-f0cf728a-d899-46d0-a8e2-812858126373.png)
+![image](https://user-images.githubusercontent.com/82694734/136900852-19fe7d71-5771-4583-b711-db1fc49f2868.png)
+![image](https://user-images.githubusercontent.com/82694734/136900723-71c9992c-d4c5-4cf9-a28b-5ba933484a00.png)
+![image](https://user-images.githubusercontent.com/82694734/136900739-2e9ba85c-500b-434d-92a0-0bea23f5ed9a.png)
+
+
 ## Get Started 
 + You will need to provide your own tokens from a [Twitter Developer Account](https://developer.twitter.com/en/apply-for-access). Here is a [guide on how to apply for a Twitter Developer Account](https://cran.r-project.org/web/packages/rtweet/vignettes/auth.html). 
 
